@@ -3,3 +3,7 @@
  
  # instructions
  You can use the existing .hex file and flash it on your 3W6 using <a href="https://github.com/qmk/qmk_toolbox">QMK Toolbox</a> or you can build it using the files provided in /vial folder. Refer to the guide on QMK on <a href="https://docs.qmk.fm/#/newbs" rel="nofollow">how to setup your build environment</a>.
+ 
+  # changelog
+  26/05/2022: Updated some files due to getting errors from time to time on windows.
+ 
